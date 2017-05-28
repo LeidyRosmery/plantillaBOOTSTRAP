@@ -1,0 +1,10 @@
+.imagen{
+  width: 60px;
+  height: 60px;
+}
+body{
+  position: relative;
+}
+.seccion{
+  padding-top: 70px;
+}
